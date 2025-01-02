@@ -1,4 +1,11 @@
-p{
-    color:blue;
+h1{
+    font-size: 30px;
+    color:green;
     background-color: red;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    font-size: 25px;
 }
